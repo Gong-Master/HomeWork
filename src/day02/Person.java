@@ -22,7 +22,7 @@ public class Person {
     Person(){
 
     };
-    Person(String name,String gender,int age,int salary){
+    Person(String name,int age,String gender,int salary){
         this.name=name;
         this.gender=gender;
         this.age=age;
