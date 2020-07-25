@@ -23,17 +23,16 @@ public class Test07 {
         Scanner ipt=new Scanner(System.in);
         String str=ipt.next();
         SimpleDateFormat a= new SimpleDateFormat("yyyy-MM-dd");
-        Date date=new Date();
         Integer b=Integer.parseInt(str);
         pin:for(int i=0;i<b;i++){
             System.out.println("请输入员信息：(例如:张三,25,男,5000,2006-02-15)");
             str=ipt.next();
             String[] str1=str.split("[,]+");
-            Emp e=new Emp(str1[0],Integer.parseInt(str1[1]),str1[2],Integer.parseInt(str1[3]),date=a.parse(str1[4]));
+            Emp e=new Emp(str1[0],Integer.parseInt(str1[1]),str1[2],Integer.parseInt(str1[3]),a.parse(str1[4]));
             Emp e1=new Emp();
             Iterator it=col.iterator();
             while (it.hasNext()){
-                if(((Emp)it.next()).equals(e)){
+                if(it.next().equals(e)){
                     i--;
                     continue pin;
                 }
