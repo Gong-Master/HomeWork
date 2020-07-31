@@ -1,4 +1,8 @@
 package day05;
+
+import java.util.Date;
+import java.util.Objects;
+
 /**
  * 定义私有属性:
  * String name;
@@ -17,6 +21,90 @@ package day05;
  * @author Bonnie
  *
  */
-public class Emp {
+public class Emp implements Comparable{
+    private String name;
+    private int age;
+    private String gender;
+    private int salary;
+    private Date hiredate;
+    Emp(){
 
+    }
+    Emp(String name,int age,String gender,int salary,Date hiredate){
+        this.name=name;
+        this.age=age;
+        this.gender=gender;
+        this.salary=salary;
+        this.hiredate=hiredate;
+    }
+
+    public String toString(){
+        return name+",年龄:"+age+"性别:"+gender+",薪资:"+salary+",入职时间:"+hiredate;
+    }
+
+    public boolean equals(Object e){
+        if(this==e){
+            return true;
+        }
+        if(!(e instanceof day04.Emp)){
+            return false;
+        }
+        Emp p=(Emp)e;
+        return Objects.equals(this.name,p.name) && this.age == p.age;
+    }
+
+    @Override
+    public int compareTo(Object o) {
+        Emp p=(Emp)o;
+        return this.age-p.age;
+    }
+
+//    public int compareTo(Object o,int i) {
+//        Emp p=(Emp)o;
+//        return this.hiredate.getTime()-p.hiredate.getTime();
+//    }
+//    @Override
+//    public int compare(Student o1, Student o2) {
+//        return o1.getAge() - o2.getAge();
+//    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
+
+    public int getSalary() {
+        return salary;
+    }
+
+    public void setSalary(int salary) {
+        this.salary = salary;
+    }
+
+    public Date getHiredate() {
+        return hiredate;
+    }
+
+    public void setHiredate(Date hiredate) {
+        this.hiredate = hiredate;
+    }
 }

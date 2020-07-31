@@ -30,8 +30,7 @@ public class Test09 {
             Emp e=new Emp(s1[0],Integer.parseInt(s1[1]),s1[2],Integer.parseInt(s1[3]),a.parse(s1[4]));
             Iterator it=col.iterator();
             while (it.hasNext()){
-                boolean b=(it.next()).equals(e);
-                if(b){
+                if((it.next()).equals(e)){
                     continue p;
                 }
             }
