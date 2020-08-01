@@ -19,34 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64e0f2bf-a184-4e8c-b04b-88055a2cab08" name="Default Changelist" comment="第4次">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="64e0f2bf-a184-4e8c-b04b-88055a2cab08" name="Default Changelist" comment="第5次">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day04/Test09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day04/Test09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day05/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day05/Emp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day05/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day05/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day05/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day05/Test02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day05/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day05/Test03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day05/Test04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day05/Test04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day05/Test05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day05/Test05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/Test13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day06/Test13.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day06/emp.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day09/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day09/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day09/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day09/Test02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day09/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day09/Test03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/day09/Test04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork/day09/Test04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day04/Test09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/Test09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/Emp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/Test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day05/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/Test04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/Test05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day06/emp.dat" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/emp.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Emp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/Test12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/Test12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/emp.dat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Jacvasdsaf/zzxx/IDEA" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,20 +67,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.Test04 (1)">
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day09.Test01" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test03">
     <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day09.Test02" />
       <module name="HomeWork" />
@@ -130,12 +107,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.Test04" />
+    <configuration name="Test09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.Test09" />
       <module name="HomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.*" />
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.Test10" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test03" />
+        <item itemvalue="Application.Test09" />
+        <item itemvalue="Application.Test10" />
         <item itemvalue="Application.Test04 (1)" />
         <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.Test03" />
-        <item itemvalue="Application.Test04" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +162,10 @@
       <workItem from="1595820654349" duration="11647000" />
       <workItem from="1595898351832" duration="3267000" />
       <workItem from="1595917018831" duration="1796000" />
-      <workItem from="1596192671879" duration="3544000" />
+      <workItem from="1596192671879" duration="5033000" />
+      <workItem from="1596197929784" duration="2531000" />
+      <workItem from="1596244999372" duration="5759000" />
+      <workItem from="1596264527572" duration="6498000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1595422067072</created>
@@ -202,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595661519860</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第5次">
+      <created>1596196289978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596196289978</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +228,8 @@
     <MESSAGE value="第2次" />
     <MESSAGE value="第3次" />
     <MESSAGE value="第4次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第4次" />
+    <MESSAGE value="第5次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第5次" />
   </component>
   <component name="WindowStateProjectService">
     <state x="539" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596195375999">
@@ -239,26 +240,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1596194068695" />
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1595917508097">
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596196420959">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1595917508097" />
-    <state width="1557" height="236" key="GridCell.Tab.0.bottom" timestamp="1596195264175">
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1596196420959" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1596268410344">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="236" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596195264175" />
-    <state width="1557" height="236" key="GridCell.Tab.0.center" timestamp="1596195264174">
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1596268410344" />
+    <state width="1557" height="236" key="GridCell.Tab.0.bottom" timestamp="1596270255442">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="236" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596195264174" />
-    <state width="1557" height="236" key="GridCell.Tab.0.left" timestamp="1596195264174">
+    <state width="1557" height="236" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596270255442" />
+    <state width="1557" height="236" key="GridCell.Tab.0.center" timestamp="1596270255441">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="236" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596195264174" />
-    <state width="1557" height="236" key="GridCell.Tab.0.right" timestamp="1596195264175">
+    <state width="1557" height="236" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596270255441" />
+    <state width="1557" height="236" key="GridCell.Tab.0.left" timestamp="1596270255441">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="236" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596195264175" />
+    <state width="1557" height="236" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596270255441" />
+    <state width="1557" height="236" key="GridCell.Tab.0.right" timestamp="1596270255442">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="236" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596270255442" />
     <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1595671717795">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -279,17 +284,21 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1595422121515" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1595661527945">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1596196324438">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595661527945" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1596196324438" />
+    <state x="593" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596196425992">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="593" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1596196425992" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1595503541734">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1595503541734" />
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1596192873975">
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1596271015044">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1596192873975" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1596271015044" />
   </component>
 </project>

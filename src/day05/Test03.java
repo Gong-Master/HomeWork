@@ -38,11 +38,15 @@ public class Test03 {
             }
             list.add(e);
         }
+
+        //按年龄大小排序：
         Collections.sort(list);
         for (Emp emp : list) {
             System.out.println(emp);
         }
-        Emp compare;
+
+        //按入职时间排序：
+        /*Emp compare;
         int index;
         for(int i=0;i<list.size()-1;i++){
             index=list.size()-1-i;
@@ -56,7 +60,21 @@ public class Test03 {
                 list.set(list.size()-1-i,list.get(index));
                 list.set(index,compare);
             }
-        }
+        }*/
+
+        //优化版：
+        Collections.sort(list,/*new Comparator<Emp>() {
+            @Override
+            public int compare*/(Emp o1, Emp o2) -> {
+            boolean b=o1.getHiredate().getTime() < o2.getHiredate().getTime();
+            if(b){
+                return 1;
+            }else{
+                return -1;
+            }
+//            }
+        });
+
         for (Emp emp : list) {
             System.out.println(emp);
         }
